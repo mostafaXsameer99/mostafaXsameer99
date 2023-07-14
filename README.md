@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, s
+#### I am Junior Software Engineer
+🎓 I recently graduated with a degree in Computer Science and started an exciting journey into the world of software development. As a junior software engineer, I am eager to expand my skills, tackle new challenges, and contribute to innovative projects.
 
-<!--
-**mostafaXsameer99/mostafaXsameer99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: Angular / NodeJs / MongoDB / JS / HTML / CSS
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on this page. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mostafaXsameer99)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mostafaXsameer99)  
+
